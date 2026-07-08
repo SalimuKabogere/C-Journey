@@ -1,2 +1,7 @@
-# C-Journey
-Track My C programming journey, maybe one day, that day, it will definitely pay off!
+# My C Journey
+
+This repository documents my journey learning the C programming language from the basics to advanced concepts.
+
+The goal is not to finish quickly but to stay consistent by writing code every day.
+
+Every folder represents a new lesson or challenge.
